@@ -141,5 +141,16 @@
     "origin": "AI-generated fan illustration",
     "description": "爱丽丝红色礼服与蒂法紫色礼服全身合照，夜晚Wall Market",
     "generator": "OpenAI image generation"
+  },
+  {
+    "file": "cats-trio-c.webp",
+    "source": "https://images.squarespace-cdn.com/content/v1/5e90e8679180dd053f86571c/1588694447862-9I9BLEFUBBXHRI87T51U/catseye_description.png?format=1000w",
+    "description": "用户选定C图：三姐妹健身房全身同框"
+  },
+  {
+    "file": "wow-moonlit-run.webp",
+    "origin": "AI-generated fan illustration",
+    "description": "暗夜精灵月夜森林奔跑",
+    "generator": "OpenAI image generation"
   }
 ]
