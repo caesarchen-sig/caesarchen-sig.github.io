@@ -135,5 +135,11 @@
     "origin": "AI-generated fan illustration",
     "description": "爱丽丝红色礼服全身同人图，夜晚Wall Market",
     "generator": "OpenAI image generation"
+  },
+  {
+    "file": "ff7-tifa-aerith.webp",
+    "origin": "AI-generated fan illustration",
+    "description": "爱丽丝红色礼服与蒂法紫色礼服全身合照，夜晚Wall Market",
+    "generator": "OpenAI image generation"
   }
 ]
