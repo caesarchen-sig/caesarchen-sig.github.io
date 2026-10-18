@@ -119,5 +119,21 @@
     "file": "pes-messi.webp",
     "source": "https://www.alza.cz/hobby/efootball-pes-2020-recenze",
     "original": "https://cdn.alza.cz/Foto/ImgGalery/Image/efootball-pes-2020-recenze-cover.jpg"
+  },
+  {
+    "file": "cats-trio.webp",
+    "source": "https://images.squarespace-cdn.com/content/v1/5e90e8679180dd053f86571c/1588694447862-9I9BLEFUBBXHRI87T51U/catseye_description.png?format=1000w",
+    "original": "https://images.squarespace-cdn.com/content/v1/5e90e8679180dd053f86571c/1588694447862-9I9BLEFUBBXHRI87T51U/catseye_description.png?format=1000w"
+  },
+  {
+    "file": "ff7-tifa-dress.webp",
+    "source": "https://static.wikia.nocookie.net/finalfantasy/images/2/29/Tifa_refined_dress_from_FFVII_Remake_render.png/revision/latest/scale-to-width-down/1200?cb=20250129040654",
+    "original": "https://static.wikia.nocookie.net/finalfantasy/images/2/29/Tifa_refined_dress_from_FFVII_Remake_render.png/revision/latest/scale-to-width-down/1200?cb=20250129040654"
+  },
+  {
+    "file": "ff7-aerith-red.webp",
+    "origin": "AI-generated fan illustration",
+    "description": "爱丽丝红色礼服全身同人图，夜晚Wall Market",
+    "generator": "OpenAI image generation"
   }
 ]
